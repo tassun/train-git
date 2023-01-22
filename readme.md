@@ -9,3 +9,9 @@ Go to [git](https://git-scm.com/) then [download](https://git-scm.com/downloads)
 
 ### Git Hub
 Go to [github](https://github.com) then create account
+
+### Git CLI
+	
+	git --version
+	
+	
