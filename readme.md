@@ -18,4 +18,7 @@ or
 
 	git -v
 	
+#### Git Status
+		
+	git status
 	
