@@ -13,5 +13,9 @@ Go to [github](https://github.com) then create account
 ### Git CLI
 	
 	git --version
+
+or
+
+	git -v
 	
 	
