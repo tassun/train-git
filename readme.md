@@ -28,7 +28,7 @@ or
 	git add .
 	git add *.txt
 	
-#### Git Add
+#### Git Commit
 
 	git commit -m your-messages
 	
