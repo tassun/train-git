@@ -22,3 +22,14 @@ or
 		
 	git status
 	
+#### Git Add
+		
+	git add file-name
+	git add .
+	git add *.txt
+	
+#### Git Add
+
+	git commit -m your-messages
+	
+	
